@@ -1,6 +1,4 @@
-# Name of the workflow
 name: NASA project CI
-# When to run the workflow
   on:
     push: 
       branches: [ master ]
